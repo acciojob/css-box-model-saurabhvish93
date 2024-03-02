@@ -1,2 +1,20 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here.*/
+#main {
+	width: 470px;
+	border: 1px solid black;
+}
+#b1 {
+	width: 300px;
+	padding: 50px;
+	border: 15px solid blue;
+	margin: 20px;
+	background-color: lightblue;
+}
+#b2 {
+	width: 280px;
+	background-color: lightblue;
+	border: 1px solid black;
+	padding: 15px 10px 15px 10px;
+}
+
