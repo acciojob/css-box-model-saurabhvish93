@@ -7,14 +7,14 @@
 #b1 {
 	width: 300px;
 	padding: 50px;
-	border: 15px solid blue;
+	border: 15px solid rgb(0, 0, 255);
 	margin: 20px;
-	background-color: lightblue;
+	background-color: rgb(173, 216, 230);
 }
 #b2 {
-	width: 280px;
-	background-color: lightblue;
+	width: 300px;
+	background-color: rgb(173, 216, 230);
 	border: 1px solid black;
-	padding: 15px 10px 15px 10px;
+	text-align: center;
 }
 
